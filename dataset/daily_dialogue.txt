@@ -20,7 +20,6 @@ L'ultima volta sono stato io ad andare per primo.
 No, ma ce n'è uno al piano di sotto, che mia figlia ha usato qualche anno fa.
 Naturalmente, sei sempre il benvenuto.
 (Dopo un po') Buon pomeriggio, signora Smith. Ho appena parlato con te al telefono.
-是的
 Meraviglioso! È una stanza semplice e confortevole. Ah, e c'è una bella finestra attraverso la quale posso vedere la bella vista e sentire il canto degli uccelli. Che bello!
 È fantastico! Lo adoro! Quando posso trasferirmi?
 Cos'è quello?
@@ -241,7 +240,6 @@ Hai la patente di guida?
 Sì, posso aiutarla in qualche modo?
 Puoi controllare qui.
 Il totale è centocinquanta. Ecco il vostro conto.
-是的
 Hai bisogno di qualcos'altro?
 OK. Vuoi controllare separatamente o insieme?
 Questa è la tua fattura. Un totale di 80 yuan. Il tuo è di 60 yuan.
@@ -258,7 +256,6 @@ Sì, è così.
 Mi chiamo Luo Gang e il mio numero di telefono è 513-3284.
 Operatore, qual è il numero che ti ho dato?
 Oh, mi dispiace. È 2135-3668, non 3678, ti ho dato il numero sbagliato.
-是的
 No, sei sull'autobus sbagliato. Puoi prendere l'autobus 22 alla stazione universitaria e poi cambiare con l'autobus 83 per scendere alla stazione ferroviaria.
 Sì, certo. Ci sono anche molte case da tè e bar in Cina. La gente può bere, mangiare e riposare in questi luoghi.
 Sì, a volte la musica lì è bella. È molto romantico. Potrei stare lì per ore.
@@ -595,7 +592,6 @@ Comprerò un giornale e guarderò gli annunci.
 Il prossimo autobus arriva tra quattro minuti.
 No, è il 58.
 No, non lo farà.
-Mai.
 Dove stiamo andando?
 C'è una lavatrice lì sotto?
 È così conveniente. Dove sono i vestiti sporchi?
@@ -616,7 +612,6 @@ Vai in palestra per 30 minuti all'ora di pranzo.
 Prendi le scale, non l'ascensore.
 Tre volte alla settimana si può nuotare, giocare a tennis o a pallamano.
 Okay, puoi fermarti ora. È l'ora della lezione di danza.
-Vedrai.
 Oh, dov'era?
 La nonna ha sempre cercato di mantenersi in salute. Ha sempre fatto mangiare cibo sano a noi bambini.
 Il mese prossimo compirà 86 anni.
@@ -778,7 +773,6 @@ Sì, come fai a saperlo?
 Sì! Ho appena iniziato ad allenarmi oggi e non so da dove cominciare.
 Beh, non voglio avere un tono muscolare visibile come te! Voglio solo avere un buon fisico con pesi adeguati e Carpio.
 Capito! Wow, è il peso che hai sollevato? Accidenti, è pesante!
-是的
 Mi chiamo James.
 American.
 Non lo conosco.
@@ -911,7 +905,6 @@ Ciao! Prenderò una dozzina di croissant, quattro muffin ai mirtilli e una pagno
 No, va bene così. Avete del pane integrale?
 sembra bene. Avete delle torte?
 Prendo una cheesecake.
-是的
 Salve, dottor Peters. Sto bene, grazie. Sono Ricky per dare la vaccinazione.
 Che dire della rosolia e degli orecchioni?
 Ok, perfetto. Dottore, credo di aver bisogno anche di un richiamo per il tetano. La mia ultima vaccinazione risale a circa 15 anni fa!
@@ -984,7 +977,6 @@ Possiamo andare da qualche parte nelle vicinanze? Non voglio andare troppo lonta
 Cibo piccante.
 È il mio turno?
 Non troppo a lungo. Un po' tagliato dietro e anche sui lati.
-是的
 In genere abbastanza. Mi darai un colpo caldo dopo? Sono di fretta.
 Perché?
 Un biglietto di ritorno economico?
@@ -1050,7 +1042,6 @@ In realtà no, ma i proprietari mettono degli avvisi per attirare gli studenti e
 $19 al giorno o $129 alla settimana, chilometraggio illimitato.
 Posso vedere la sua patente di guida?
 Io sono.
-是的
 Puoi venire nel mio ufficio alle 15 di oggi?
 Grazie per aver chiamato, arrivederci.
 Ci penserò. È qui.
@@ -1236,7 +1227,6 @@ Sembra buono, forse lo proverò.
 No per oggi, grazie. Avete dei piatti vegetariani?
 Non voglio pesce, voglio fagioli.
 Vorrei una zuppa di uova.
-是的
 Vorrei un pasto con doppio cheeseburger.
 Basta una Coca Cola.
 sembra bene, grazie, mi piace. In Davverotà vorrei una Sprite invece di una Coca, per favore.
@@ -1524,7 +1514,6 @@ Non fare rimpianti inutili. Fred? Puoi restare con me per qualche minuto?
 Odio stare a casa da sola ad ascoltare il ticchettio dell'orologio e non avere niente da fare. È così solitario e noioso. In più è peggio ora che sono malato, quando starò meglio?
 Ti interessa solo il tuo lavoro.
 Stai ancora qualche minuto, ok?
-是的
 Vorrei prenotare un tavolo per due, mia moglie ed io.
 Non sono sicuro. Probabilmente intorno alle 20:00.
 Juliette, Juliette Berman.
@@ -2182,7 +2171,6 @@ Dieci minuti o cinque minuti o giù di lì. Sarete sistemati.
 Ho trovato una buona idea per fare un check-up.
 Lo so. Immagino che finché non c'è niente che non va, perché andare dal dottore?
 Tutto bene.
-是的
 Ci ho provato centinaia di volte, ma sembra che non riesca a perdere l'abitudine.
 Sì, sai una cosa? Vado spesso al club (della salute). La formazione è stata davvero produttiva. Ora sono in buona forma e so di più su come rimanere in forma.
 È importante fare un esercizio adeguato.
@@ -2677,7 +2665,6 @@ Sì, certo. Come potete vedere dalla bio, ho 27 anni e sono nato e cresciuto a B
 Sì, anche se sono nato in America, preferisco chiamare Londra casa. Probabilmente hai visto che ho passato molto tempo andando da un paese all'altro. Mio padre era nel settore petrolifero prima di andare in pensione, quindi abbiamo anche trascorso diversi anni in Arabia Saudita.
 Sì, non siamo mai rimasti in un posto per troppo tempo. Ma ora voglio davvero sistemarmi.
 Certo, Bill, entra, cosa posso fare per te?
-是的
 Un aumento? Ti darò un aumento, ma non è il momento giusto.
 Tenendo conto di questi fattori, e poiché non voglio un esodo di talenti, sono disposto a darvi un aumento del dieci per cento e cinque giorni di riposo in più. Che ne dite?
 Prima di partire, per curiosità, quali aziende ti stanno braccando?
@@ -3665,7 +3652,6 @@ Ci stai dando il miglior ritorno dicendo questo. Ecco la ricevuta.
 Solo un momento. Congratulazioni, sei stato scelto come nostro fortunato cliente per l'anniversario.
 Si ottiene un trattamento facciale e una trasformazione gratuita. Vorresti farlo ora?
 Questo è il nostro numero di contatto. Per favore, chiamateci quando volete farlo.
-是的
 Non sono dell'umore giusto.
 Non voglio stare lì a guardare mentre torturano gli animali.
 Carino? Lo spero.
@@ -3823,7 +3809,6 @@ Lo so, ma mi sembra un peccato toglierlo.
 Lo so, lo so. Ma mi ricorda il Natale felice che abbiamo appena trascorso. C'era tutta la gente - i miei genitori, i tuoi genitori, i bambini e i cugini - il cibo era buono e tutti avevano quello che volevano.
 Sì, OK. Dobbiamo togliere l'albero di Natale.
 Io sono.
-是的
 Puoi venire nel mio ufficio alle 15 di oggi?
 Grazie per aver chiamato, arrivederci.
 Sono totalmente d'accordo!
@@ -4237,7 +4222,6 @@ Lo sapevi che aveva 20 anni di esperienza nell'insegnamento?
 Il prossimo lunedì mattina alle 8. Vuoi scriverlo sul calendario?
 Lunedì prossimo è il 2 dicembre. L'autobus parte alle 8, ma saliremo sull'autobus alle 7
 Dì alla persona che ti viene a prendere che tornerai l'8 dicembre. Qualcuno ti viene a prendere?
-8点前回学校
 Guardo un sacco di cose, presenze, quiz ed esami.
 Non vedo l'ora di vedere i tuoi progressi, ma voglio che tu cerchi di fare del tuo meglio fin dall'inizio.
 Gli esami finali e intermedi sono il 40% del voto totale; i compiti a casa, la frequenza e i quiz sono il 60%.
@@ -4625,7 +4609,6 @@ La musica pop non ha profondità per me.
 Ti è sempre piaciuta la musica pop?
 Prima non mi piaceva affatto, finché non ho iniziato le lezioni di violino a otto anni. Da allora in poi. La musica classica è sempre stata una grande parte della mia vita.
 Beh, mi piacerebbe, ma non sono sicuro di avere il tempo.
-是的
 All'università.
 Grazie
 3 settimane.
@@ -4706,7 +4689,6 @@ Consiglio una giornata allo zoo. È divertente per tutta la famiglia. C'è anche
 Veramente? Ma sua moglie si è sempre presa cura di lui.
 buon pomeriggio! Per favore siediti. Stai bene?
 Sto bene grazie. bel tempo oggi!
-是的
 Uhm. . . Fa molto caldo adesso.
 a Londra. Dove vivi?
 È meglio che andiamo a fare una passeggiata.
@@ -5583,7 +5565,6 @@ Sì. Allegherò la ricevuta del vostro bagaglio al vostro biglietto.
 Vado in Inghilterra con il volo BE987.
 Alle 10 del mattino. A che ora devo fare il check-in?
 Ecco a te.
-是的
 Tutto bene.
 Quanto devo pagare?
 Ecco a te.
@@ -6293,7 +6274,6 @@ Come l'hai trovato?
 Com'è?
 E poi?
 E poi cosa è successo?
-是的
 Ciao, signor Smith, qual è il problema?
 Io posso aiutarti. Hai la tua ricevuta con te?
 Oh, sì, anche questo va bene.
@@ -7367,7 +7347,6 @@ Si prega di notare che tutti i nostri corridoi sono numerati e ordinati dai cart
 Hmmmm, vorrei comprare un televisore a colori.
 No, quale mi consigliate?
 Grazie, ma vorrei comprarne uno fatto in Cina.
-Skuangwei.
 Questo vestito era in vendita ieri.
 Scusa, le regole sono regole.
 Vorrei comprare una giacca di pelle.
@@ -7597,7 +7576,6 @@ Non sono sicuro. Non riesco a connettermi.
 Certo che puoi, entra.
 Solo 345 libbre.
 Ora vado per la mia strada, tornerò tra circa 45 minuti. Posso tornare verso le 3:15?
-是的
 Sì. Vorrei un cocktail di granchio.
 molto bene.
 Prendo la zuppa di uova.
@@ -8338,7 +8316,6 @@ Non usarne uno, per favore.
 Potresti tagliare la parte superiore delle orecchie un po' più corta?
 Tutto bene.
 No, non tagliare così tanto. Ora va tutto bene.
-是的
 Ecco a te. Settantacinque centesimi.
 C'è qualcosa di valore in esso?
 Ho bisogno di una ricevuta?
@@ -8509,7 +8486,6 @@ Basta passare attraverso il cancello dei biglietti n. 8. Il treno entrerà diret
 Vorrei una fotografia di un pollice, uso del viso.
 Sì, vorrei fare una foto.
 Sì. Mi piacerebbe vedere una di quelle cravatte.
-是的
 Ok, lo prendo. Potresti concludere, per favore?
 Puoi tornare tra venti minuti e la ricetta sarà pronta.
 Questo è fatto di alluminio duro. È sia economico che durevole. Ne abbiamo alcuni in acciaio inossidabile e quelli laggiù sono smaltati.
@@ -8588,7 +8564,6 @@ Mi dispiace, Becky non può venire al telefono in questo momento.
 Vedo. A cosa ti piacerebbe essere promosso.
 Ecco a te.
 Il totale è 185 dollari.
-是的
 Scusa, signorina. Temo che oggi abbiamo finito le scorte.
 Sì, hai delle calze?
 Salve, vorrei comprare un paio di guanti.
@@ -8733,7 +8708,6 @@ Un momento, per favore. Il totale è 80,50 dollari.
 Anch'io penso che siano fantastici.
 Anch'io.
 Lascia che li pesi per te. $1.50.
-是的
 Quaranta dollari.
 Le carte di credito vanno bene.
 Stai scherzando? Morirai attraversando la strada qui, attraversiamo al semaforo.
@@ -8811,7 +8785,6 @@ Quali esercizi devo fare per rassodare i miei fianchi?
 Quello?
 Vorrei un cheeseburger e una porzione grande di patatine fritte.
 Sì, una Coca media.
-是的
 Da portare via. (Il cameriere consegna l'ordine al cliente).
 Beh, ci sono molti libri di racconti nella sezione per bambini al piano superiore. Alcuni sono scritti per bambini piccoli, altri per adolescenti. Forse qualcuno di loro soddisferà le vostre esigenze.
 Fammi dare un'occhiata. Se c'è questo album, dovrebbe essere lì sotto l'etichetta della lettera M. (Guarda il CD) Beh, sembra che sia esaurito, ma dovremmo rifornirlo presto. Se ne avete bisogno, possiamo ordinarlo per voi.
@@ -8960,7 +8933,6 @@ Molte persone ingrassano bevendo troppe bevande gassate. Le bevande gassate sono
 Mia madre mi faceva prendere vitamine ogni giorno, ma ora non le prendo più. Le vitamine sono un ottimo integratore, ma non servono a molto se non si ha una dieta ben equilibrata per cominciare.
 Ho detto: "Hai bisogno che ti aiuti?" "
 Sì, abbiamo litigato ieri. Mi ha incolpato di non aver preparato la cena. Ma ieri doveva essere il suo turno di cucinare.
-是的
 Non è colpa mia. Ma lei mi ha detto: "Vergognati". Sto per esplodere!
 Ad essere onesti, non sono più arrabbiato. Sono anche un po' dispiaciuto per quello che ho fatto.
 Ti ho perdonato. In effetti, ti devo ancora delle scuse. Sono stata così scortese con te l'altro giorno.
@@ -8986,12 +8958,10 @@ Non c'è nessuno qui con quel nome.
 Hello? Signor Burney. Io sono Lisa. Spero di non disturbare. Ho appena saputo di sua figlia. Volevo chiamarla per dirle quanto manchi a tutti noi.
 Cosa? Questo è strano. Mi dispiace se vi sto disturbando.
 (Nessuna risposta; Silenzioso)
-(没有responsive)
 Vorrei una tazza di tè nero.
 Vorrei una crostata di fragole.
 Grazie. Quanto costa la tariffa?
 Come può essere?
-是的
 Salve, signora. Dove si va?
 Nessun problema. Sali in macchina.
 Tutto bene.
@@ -9012,7 +8982,6 @@ Blu.
 Okay. Che tipo vuoi?
 Okay, ecco qui.
 No, il contatore 1 è, è laggiù.
-是的
 Vuoi inviarlo per via aerea o per posta ordinaria?
 Devo prima pesarlo. 120 dollari.
 Questo è il tuo cambiamento.
@@ -9078,7 +9047,6 @@ Include una maschera e un servizio di massaggio?
 Fai anche l'esfoliazione della pelle?
 sembra bene. Io ci sto.
 Ah, Todd, è così bello sentire la tua voce!
-是的
 Non c'è bisogno. Il padrone di casa paga.
 Sì. Ce n'è uno in ogni appartamento.
 Sì. Ma devi pagare 60 dollari al mese.
@@ -9092,7 +9060,6 @@ Chi è Peter?
 Grazie mille. Ho un'altra domanda.
 Dove posso cambiare l'indirizzo sulla mia patente?
 Puoi darmi le indicazioni per l'ufficio?
-是的
 A che piano si trova l'ufficio?
 Grazie mille
 È bello, la vista da questa finestra è bellissima.
@@ -9139,7 +9106,6 @@ Vuoi comprare dei cioccolatini fatti in casa come regalo?
 Abbiamo molto da scegliere.
 Hmm. Sto cercando qualcosa da indossare ad una festa formale.
 Medium, taglia da donna 10 o 12.
-是的
 Buona idea. Lo proverò.
 Si sente benissimo.
 Va bene. Lo prendo io. Grazie mille.
@@ -9182,7 +9148,6 @@ Bene. Sono fiducioso e mi piace la sfida.
 È in vendita questa settimana.
 Questo è il denaro per te.
 Cosa c'è che non va? Come posso aiutarla?
-是的
 Huh. Limite di 4 casse per famiglia.
 Lo so. Questo è davvero un buon affare.
 Perché? Tu dici che sono sexy quando fumo.
@@ -9766,7 +9731,6 @@ Forse hai ragione.
 Ok. Che ne dici di questo vestito nero? Può essere indossato per qualsiasi occasione - una festa, un colloquio di lavoro, persino per un funerale!
 Oh! Ehi, guarda qui, Britney ha indossato questa camicia al concerto.
 Perché non lo provi?
-是的
 Si trova a circa un'ora di macchina.
 Cosa c'è che non va?
 Questa è una grande notizia. Quanto guadagna alla settimana ora?
@@ -9951,7 +9915,6 @@ No, grazie.
 Non preoccuparti, va tutto bene.
 Se voglio sapere il prezzo, guardo l'etichetta.
 Io lo proverei.
-是的
 Tutto bene.
 Sembra che tu venga da fuori città.
 Sono sicuro che ti piacerà Fisherman's Wharf. È un'attrazione turistica molto popolare. Assicuratevi di provare i frutti di mare lì.
@@ -10099,7 +10062,6 @@ Grazie
 Sicuro. (Le ha portato la salsa barbecue). Ecco a te. Ha bisogno di qualcos'altro?
 Vorrei un cheeseburger e una porzione grande di patatine fritte.
 Sì, una Coca media.
-是的
 Da portare via. (Il cameriere consegna l'ordine al cliente).
 È urgente? Vuoi inviarlo urgentemente per posta?
 Vorrei comprare un nuovo telefono.
@@ -10142,7 +10104,6 @@ Okay eccoci qua. A questo incrocio giriamo a sinistra. Dritto è il percorso pi�
 È vero, nelle ore di punta i taxi sono veloci come gli autobus.
 Almeno non devi stringerti con tutti gli altri. A proposito, sei cinese?
 Wow, è come l'America. Riceve un gran numero di turisti ogni anno.
-是的
 Sai dov'è la Grande Strada del Re?
 Puoi portarmi lì?
 Molto buono.
@@ -10506,7 +10467,6 @@ Vai in palestra per 30 minuti all'ora di pranzo.
 Prendi le scale, non l'ascensore.
 Tre volte alla settimana si può nuotare, giocare a tennis o a pallamano.
 Okay, puoi fermarti ora. È l'ora della lezione di danza.
-Vedrai.
 Oh, dov'era?
 La nonna ha sempre cercato di mantenersi in salute. Ha sempre fatto mangiare cibo sano a noi bambini.
 Il mese prossimo compirà 86 anni.
@@ -10585,7 +10545,6 @@ Ma io ......
 Il prossimo autobus arriva tra quattro minuti.
 No, è il 58.
 No, non lo farà.
-Mai.
 Perché non sono in vena.
 Non voglio aiutarti in cucina.
 Davvero? Devo proprio?
@@ -11000,7 +10959,6 @@ Non lo so. Certo, è vero che la benzina è cara adesso.
 È difficile da dire, ma mi piacciono il foxtrot e il valzer.
 Ad essere onesti. Non mi piace, è troppo rumoroso.
 Oh, il ballo del tango è bellissimo. Ma non riesco proprio a saltare bene.
-好
 La tua auto è molto vecchia. Perché non ne prendi uno nuovo?
 Oh, c'è una mostra di auto domani pomeriggio. Ho due biglietti. Vuoi venire con me?
 Sì. Quando parte il prossimo treno per New York?
@@ -11225,7 +11183,6 @@ Sei infelice adesso? Non ho mai visto un pianoforte da bambino.
 Questo parco è così bello. Ho portato una macchina fotografica, il che è fantastico.
 Buona. Facciamo una risata. Siete pronti? A proposito di formaggio!
 Non stavo scherzando prima, beh, ora sto bene.
-是的
 Cosa vuoi sapere? Sei strano oggi.
 Haha, è interessante, ma non ha senso per me.
 Davvero, se vogliamo adottare animali, dobbiamo parlare con Daniel.
@@ -11410,7 +11367,6 @@ Vi suggerirei di comprare una casa con due camere da letto. Perfetto per una cop
 Non preoccupatevi, potete pagare a rate, non dovete pagare l'intero importo in una volta sola.
 Certo che puoi, devi pagare un deposito in anticipo e il resto su base mensile.
 Dipende dalla situazione.
-是的
 Non sono riuscito a trovarne uno che soddisfi le mie esigenze.
 Dove si trova la casa?
 Davvero! Quindi è vicino all'edificio del mio ufficio. È fantastico! Quanto costa l'affitto?
@@ -11544,7 +11500,6 @@ Oh no ! Non è affatto un buon swing! Sicuramente non è la sua giornata oggi. A
 Sì, voglio una pizza media con peperoni, olive e formaggio.
 Sicuro, suona bene.
 No, la seconda pizza deve aggiungere prosciutto, ananas e pepe verde, oh, deve essere fatta in una crosta sottile.
-太好了. Grazie! arrivederci. . .
 No!
 Ok, ok, cosa vuoi?
 Um... non credo proprio. Ho bisogno della macchina stasera per andare a prendere tua madre.
@@ -11887,7 +11842,6 @@ Vuoi assicurare il pacco?
 Il prossimo autobus arriva tra quattro minuti.
 No, è il 58.
 No, non lo farà.
-Mai.
 Sì, si fermano tutti in questo angolo.
 Qualunque autobus che non sia il 9 va bene.
 Cinque minuti.
@@ -12699,7 +12653,6 @@ Sì, mi piace. Sembra buono. Non troppo corto, il giusto. Quanto devo pagare?
 Sono 4 dollari, tieni il resto.
 Sì, abbiamo una prenotazione. Il mio nome è Ann.
 Questo è il tuo tavolo.
-是的
 Sì, vorrei questo roast beef speciale.
 Io prendo i fagiolini, per favore assicurati che il manzo sia pronto.
 Dammi un caffè, con panna e zucchero.
@@ -13182,7 +13135,6 @@ No, per favore non farlo.
 Puoi tagliare sopra le orecchie?
 Oh, sì. Funziona meglio.
 No, non così tanto. Ora va meglio.
-是的
 No, non ancora. Voglio solo un taglio di capelli.
 Lo voglio corto.
 Intendo molto breve. Più corto di adesso.
@@ -14247,7 +14199,6 @@ Sicuro, entra pure.
 Per vent'anni.
 Sì, sono qui dal 1976.
 Perché sono appena andato in pensione. Voglio comprare una piccola casa in campagna.
-£6,850.
 È un buon rapporto qualità-prezzo.
 Hmmmm, voglio comprare un computer questo semestre. Qualcuno ha detto che è più economico comprare un computer qui. Bene, è così. Qui si può fare un ottimo affare per un nuovo computer. Lo sconto per gli studenti è fantastico.
 Non so molto di computer, ma voglio un computer desktop con molta memoria. Voglio anche una stampante.
@@ -15088,7 +15039,6 @@ Non puoi pagare una multa senza documento.
 Dobbiamo assicurarci che la persona che emette il biglietto sia la persona che lo paga.
 Torna con la tua carta d'identità.
 Hanno ottenuto alcuni.
-Sei.
 Sì, sono stati tutti pagati.
 $130 per biglietto.
 Ho ricevuto il biglietto l'altro giorno.
@@ -15746,7 +15696,6 @@ Vorrei non averlo fatto.
 Sono stato sorpreso a barare all'esame. Mi vergogno così tanto. Quando l'insegnante lo vide, disse che avevo fallito.
 Conosci mio padre. Se fallisco, mi ucciderà. devo passare.
 Lo so. . . Lo so. . . è tutta colpa mia. Mi sento malissimo, non ho studiato tanto e sono stato sorpreso a barare all'esame.
-是的
 L'inglese è il mio preferito.
 Di solito vado in bicicletta. Che tipo di trasporto preferisce?
 Penso che dovremmo scoraggiare la gente a guidare. È troppo inquinante!
@@ -15776,7 +15725,6 @@ Non pagare. Lo scuolabus è gratuito.
 Cosa?
 Wow!
 Due onde?
-是的
 Dove mi devo sedere?
 Chi è Brad?
 A proposito, quando inizia la prima ora?
@@ -15870,7 +15818,6 @@ Ero preoccupato di non passare.
 Ma sto saltando spesso le lezioni e non gli piaccio.
 Oh.
 No, l'ho sempre saputo. La sua elezione era ovvia.
-是的
 L'autore era un famoso scrittore e un politico. È nato nel 1911 ed è morto nel 1985.
 Posso rispondere in cinese?
 Lasciami provare. L'autore usa il tema del carattere peculiare degli inglesi per mostrare che sono molto diversi dalle altre nazionalità. Sono tranquilli, timidi e riservati.
@@ -15947,7 +15894,6 @@ Oh, no. È già il 5 febbraio.
 Che tipo di materia è?
 Esiste una materia più piccola di elettroni e protoni?
 Non lo so.
-是的
 Non l'ho fatto.
 Lo ammetto. L'ho fatto perché avevo un disperato bisogno di soldi per comprare le medicine per mia madre, che è molto malata. Mi vergogno che sia successo.
 Buongiorno. Cosa posso fare per voi?
@@ -17259,7 +17205,6 @@ Sì. Sto solo aspettando che entri ufficialmente all'università per fare un'off
 No.
 Non è troppo lontano. Pensi che possa ottenere un visto?
 Sì, sono stato a Terrebonne, in Egitto e in Giappone.
-Mai.
 No, voglio tornare in Cina dopo la laurea.
 Ho una borsa di studio completa, quindi non ho bisogno di altri soldi per tirare avanti mentre studio.
 È molto meglio di ieri.
@@ -18910,7 +18855,6 @@ Sei mai stato in America?
 Ciao, Brian.
 Piacere di conoscerti.
 Anch'io
-是的
 Julie! È un piacere rivederti. Come sei stato?
 Davvero? Come è stato?
 Ho sentito che le spiagge della Thailandia sono bellissime.
@@ -19548,7 +19492,6 @@ La nostra parte di basso è molto buona. Ti piacerà cantare con loro.
 Certo, per favore vieni con me.
 Questo è il nostro cortile.
 Sì, circa 46 metri quadrati.
-是的
 Non hanno abbastanza tempo per sbucciarli dopo il raccolto, quindi li appendono agli alberi. Poi in inverno possono sbucciare le spighe a loro piacimento.
 Ciao David, sono Margie. Possiamo parlare per qualche minuto dopo il lavoro?
 Okay.
@@ -20263,7 +20206,6 @@ Lo scorso fine settimana non volevo uscire, così ho deciso di rimanere a casa a
 Ero stanco dopo una settimana di lavoro. A volte non ho l'energia per andare al cinema nel fine settimana.
 Oh, sì, penso che suoni bene.
 Ciao, Vicky.
-是的
 Questo non è un problema. Volevo solo dirvi che sono dentro.
 Al primo piano.
 Vieni su.
@@ -20404,7 +20346,6 @@ Ti danno un'indennità extra per questo lavoro?
 Cinque bocche. Oltre a me e ai miei genitori, ci sono i miei fratelli.
 Diciotto anni.
 Non ha ancora venticinque anni.
-是的
 No. Ma li mando spesso via e-mail. Chiamo regolarmente i miei genitori.
 Niente.
 Cosa c'è in questi giorni?
@@ -20439,7 +20380,6 @@ Ascolto molta musica hip-hop. E tu?
 Oh, ce ne sono così tanti! Amo le Spice Girls. Sono così fighi!
 L'ho sempre sentito alla radio, così ho iniziato ad ascoltarlo.
 Ho conosciuto Amanda tramite un amico.
-是的
 no, cosa è successo?
 Cosa vuoi dire?
 Oops. Dove è successo?
@@ -21805,7 +21745,6 @@ Sì, è per questo che non lo bevo mai.
 Raramente, perché il tè contiene acido tannico, che può essere dannoso per la salute.
 Quali sono i benefici?
 Sì, ma non dovrebbe mai essere infuso per troppo tempo.
-是的
 Vado in banca. Ho bisogno di incassare degli assegni.
 Perché vai in banca?
 Vedo. Porterà molti soldi?
@@ -21858,7 +21797,6 @@ Si Huh? Erano famosi perché erano brutti?
 Allora chi sono?
 Sembra che anche la bellezza interiore sia importante.
 Ho scritto rapporti tutta la notte.
-是的
 Ho due figli. Un ragazzo e una ragazza.
 Jack e Stephanie.
 Stephanie ha 18 anni e Jack 24.
@@ -22248,7 +22186,6 @@ Sì, vi sentirete come se foste nel paese delle fate.
 Ci sono stato alcune volte.
 No, come mai così in fretta. Non puoi restare ancora per qualche giorno?
 Spero che questa non sia l'ultima volta che ci incontriamo.
-Mi mancherai.
 È un peccato che io sia troppo occupato per salutarti domani.
 Abbi cura di te e rimani in contatto.
 Addio, ti auguro un buon viaggio.
@@ -22268,7 +22205,6 @@ Le tue parole sembrano un po' ragionevoli. Ma non dimenticare il fuso orario.
 Ascoltare musica, leggere libri.
 Preferisco la musica classica.
 Ma molte strade sono molto strette.
-是的
 Ciao. Io sono Jessica.
 Anche per me è un piacere conoscerti. Di dove sei, Robin?
 Sono di New York. Oh, sono alla stazione. Ciao, Robin.
@@ -22361,7 +22297,6 @@ Quanti migliori amici hai?
 Ora. Ho solo un migliore amico.
 Ci sono solo pochi amici.
 It's bulldog 123.
-是的
 Cosa vuoi dire?
 456 Cherry Avenue, Pasadena, California, P.O. Box 91170.
 Qual è il problema?
@@ -22568,7 +22503,6 @@ Hey, questo posto all'ombra sembra accogliente.
 Non credo. Le previsioni del tempo ieri sera dicevano che ci sarebbe stato il sole tutto il giorno.
 buon pomeriggio! Per favore siediti. Stai bene?
 Sto bene grazie. bel tempo oggi!
-是的
 Uhm. . . Fa molto caldo adesso.
 a Londra. Dove vivi?
 Hey, Tom! Io sto bene, tu come stai?
@@ -23643,7 +23577,6 @@ Chiedi a John. Deve saperlo.
 Mi preoccupo per mio marito.
 Dove stai andando?
 Hai una macchina, vero?
-是的
 Si. È quasi uno schiavo, sua moglie lo conduce per il naso.
 Quale volo?
 Com'erano i passeggeri?
@@ -23669,7 +23602,6 @@ Nella sala da concerto.
 No, non l'ho fatto. E tu? Era buono?
 Quanto costavano i biglietti?
 Hmmmm, hai bisogno di aiuto?
-是的
 Piacere di conoscerti, John.
 Bene, Jim. La quantità di cibo, il tipo di cibo e l'ora del giorno in cui si mangia sono tutti importanti.
 Grande errore, dovresti fare una buona colazione. Anche le auto hanno bisogno di benzina per guidare, e non puoi aspettarti che il tuo corpo funzioni senza mangiare.
@@ -24246,7 +24178,6 @@ No, è mia sorella.
 18.
 Sì, lo è.
 Oh, che aspetto ha?
-是的
 Bene, che bello.
 Bene, certo. Come lo riconoscerò?
 Ci sono altre caratteristiche?
@@ -24458,7 +24389,6 @@ Te ne ho comprato uno nuovo l'anno scorso. Non è bello?
 L'insegnante dice che cavalca meglio di te.
 Perché l'autobus non è ancora arrivato? Dobbiamo aspettare così tanto ogni mattina.
 Davvero? Non vedo l'ora. E il traffico?
-是的
 Bene, entra pure.
 Mio padre e mia sorella sono fuori a fare foto. E tu?
 Che cos'è un backpacker?
@@ -24719,7 +24649,6 @@ A volte lo sono, ma generalmente no. La maggior parte degli agenti federali sono
 Sono un mormone, quindi vado alla Chiesa dei Santi degli Ultimi Giorni.
 I mormoni credono che il cristianesimo da loro fondato sia diventato corrotto dopo la morte di Cristo e degli apostoli e che Cristo abbia perso la sua autorità sulla terra. nel 1830, un profeta di nome Joseph Smith fu innalzato da Dio per restaurare la chiesa.
 Cioè, hanno tutti parte del vangelo originale, ma non tutto.
-是的
 Fai una domanda? Cosa vuoi sapere?
 Solo cosa? Non menare il can per l'aia. Basta dirlo.
 Prestarti qualche dollaro? Impossibile! Ti ricordi l'ultima volta che mi hai prestato dei soldi?
@@ -25727,7 +25656,6 @@ No, non ci mangio più. Ordino il mio piatto preferito al ristorante dietro l'an
 Sì, come Natale e Pasqua.
 In quel giorno, i ragazzi dovrebbero regalare rose alle loro fidanzate.
 Di solito abbiamo un mese di riposo.
-是的
 Nessun problema. Cosa bisogna portare?
 Non tutti i giorni, ma occasionalmente.
 Andremo in vacanza d'estate.
@@ -26111,7 +26039,6 @@ Mi piace quasi tutta la musica. Ma la musica country è quella che mi piace di p
 Vorrei essere andato!
 Grazie. Questo è il risultato di un allenamento. A proposito, ti stai allenando?
 Il 15 ottobre.
-是的
 Beh, questo succede sempre. Spero che stia bene.
 È il lato oscuro delle storie d'amore in ufficio. Spero che il loro lavoro non sia influenzato dallo stress emotivo. Se è così, il capo deve essere furioso.
 È difficile da dire, mi piacciono quelli interessanti e significativi. Non mi interessa se sono blockbuster.
@@ -26439,7 +26366,6 @@ Probabilmente. I nuovi capi verranno ad una riunione la prossima settimana. Una 
 Cinque bocche. Oltre a me e ai miei genitori, ci sono i miei fratelli.
 15 .
 Non ha ancora 25 anni.
-是的
 No. Ma gli scrivo spesso.
 Oh, aspetta. Almeno uno prima di partire.
 È un peccato che te ne vai così presto.
@@ -26930,7 +26856,6 @@ Certo che l'ho fatto. Se possibile vorrei sposare un bell'uomo e avere due figli
 Sì. Stavamo camminando nel bosco vicino all'autostrada.
 Sì. Faceva freddo e c'era molto vento. Indossavamo pesanti maglioni di lana e camminavamo velocemente per tenerci caldi.
 Sì. Era molto tranquillo lontano dalla strada e c'erano uccelli e scoiattoli ovunque. Abbiamo incontrato una ventina di scoiattoli.
-是的
 Hmmmm.
 Sì, va bene. Bene, mi parli della sua esperienza lavorativa.
 Ok, quindi senti di poter comunicare con le persone in inglese in un modo che possano capire facilmente?
@@ -27218,7 +27143,6 @@ Ho solo il sospetto che possa essere gay, ma non ne sono sicuro. Comunque, non v
 Perché non ci ha visti fuori?
 Sì, ma chi vuole entrare? Sai, non sono gay. Perché dovrei andare in un bar gay?
 Mi sento solo a disagio.
-Mai.
 Buona. . .
 Non ne ho idea. Ma non sono mai stato in un bar gay prima.
 Può. fammi provare. Non credo che sarebbe bello se non entrassi. Dopotutto, gli omosessuali non hanno paura di entrare nei normali bar.
@@ -27318,7 +27242,6 @@ Penso che ben poche star della recitazione vogliano la pubblicità che otterrann
 Le star della recitazione hanno molte spese. Ecco perché hanno bisogno di così tanti soldi. Le loro grandi case isolate, i loro bei vestiti costano milioni di dollari. Scommetto che alla maggior parte delle star della recitazione piacerebbe
 Penso che dovreste dare loro un po' di credito. Sono persone di grande talento e meritano tutti i soldi che guadagnano. Danno anche soldi in beneficenza per aiutare i meno fortunati
 che cos'è?
-是的
 Davvero? Fantastico! Hai la possibilità di scrivere?
 Wow! Questa è una grande notizia. Quanto spesso esce questa rivista?
 Spera di fare più lavori editoriali?
@@ -27478,13 +27401,11 @@ Va bene. Non preoccupatevi, non spingetevi mai. Soprattutto all'inizio.
 Possiamo rifare tutto la prossima volta. Nessun problema. Davvero. La cosa più importante è conoscere i propri limiti. Quindi, se vi sentite esausti ora, è meglio fermarsi. Perché se vi tirate un muscolo o vi fate male alla schiena, allora non sarete in grado di allenarvi per qualche settimana. Giusto?
 Perché? Siamo appena arrivati.
 12 in punto?
-是的
 Come può essere troppo tardi? È sabato sera. Non hai niente da fare domani. Perché non resti fuori a bere qualcosa con noi?
 Sì. Mi piace vivere qui. Alla gente qui piace fare festa. A Taipei, ad alcune persone piace fare festa, ma qui lo fanno tutti.
 Stanno fumando erba. Non preoccupatevi.
 Si.
 Non preoccupatevi. La marijuana è effettivamente illegale negli Stati Uniti, ma le leggi non sono così severe come a Taiwan, e se qualcuno viene arrestato e viene trovato in possesso di poca marijuana, non va in prigione. Devono solo pagare una multa.
-是的
 Ho provato alcune volte. Ma non mi piace. Preferisco bere, ma non preoccupatevi. Se non vuoi fumare erba, nessuno ti obbliga.
 Allora non fumarlo. Ma si può davvero avere un altro drink. Tutti inizieranno presto a ballare.
 Hai bevuto due drink alle nove. Dai, Ann, sei all'American University adesso! Devi imparare a bere.
@@ -27515,7 +27436,6 @@ Perché? Penso che la riunione sia andata bene.
 Sì. Ma di cosa si preoccupa?
 Maleducato? Non sei affatto scortese, Annie. Cosa ti fa pensare di essere scortese?
 Ho capito. Ma non sei stato affatto scortese. Hai detto quello che volevi dire. Penso che l'abbia apprezzato.
-是的
 Vuoi dire perché sei una donna?
 Ascolta, Annie. Non deve preoccuparsi del signor Drummond. È un uomo molto gentile. Non è affatto sessista. Apprezza le idee delle persone. È aperto ai suggerimenti, che siano di uomini o di donne.
 Anne, sono d'accordo con te. Ho lavorato per il signor Derek Drummond per nove anni. Penso che apprezzi il lavoro dei suoi dipendenti, non il loro sesso. Non lascerò mai questo.
@@ -27778,7 +27698,6 @@ Oh, pensavo che ce ne sarebbero stati otto. Chi non verrà?
 è terribile. Mi piacciono molto.
 Mi dispiace, ho dei piani per stasera.
 Vado a casa dei miei genitori per il compleanno di mio padre.
-50° compleanno.
 Bene. Cosa fai stasera?
 Beh, se puoi aspettare fino a domani sera, allora verrò con te.
 Non sembra che avremo un appuntamento questa settimana.
@@ -29302,7 +29221,6 @@ Okay, prenota questo.
 Ok, ho capito. Quanto costa?
 Ho capito. La tariffa di andata e ritorno è raddoppiata, giusto?
 Ho una prenotazione. Il mio nome è Rogers.
-是的
 Oh, bene. Oggi sono molto occupato e sono contento di essere qui.
 Carta di credito grazie.
 Grazie. Ho un appuntamento domani mattina alle 8. Vorrei il servizio sveglia.
@@ -29593,7 +29511,6 @@ Grande.
 No, grazie.
 Mi dispiace che non ti piaccia, ma è proprio questo che rende questo piatto così speciale.
 Salve, il mio nome è Peter. Ho prenotato una camera singola dal 18 giugno al 21 giugno. Vorrei cambiare la mia prenotazione solo al 20 giugno.
-是的
 Questo è esattamente quello che voglio. Quanto costa?
 Suona bene. Questo lo prendo io.
 C'è una camera singola per lunedì sera, per favore?
@@ -29637,7 +29554,6 @@ No, vengono ogni ora esatta.
 Ho prenotato una stanza qui.
 Brown, Jason Brown.
 Così è giusto.
-是的
 Okay, va bene così?
 Ecco a te.
 Cash.
@@ -29760,7 +29676,6 @@ Ecco a te.
 Solo questo.
 Aisle.
 Qual è il numero del gate?
-是的
 Circa un giorno. Arriviamo a Dalian alle 10 di domani.
 Quattro porte.
 Forse 25 nodi all'ora.
@@ -29829,7 +29744,6 @@ Benvenuti a Hong Kong, ora vado a chiamare un taxi. Va bene se aspetti qualche m
 Vorrei usare la cassaforte.
 Lasciami vedere. Penso che ci starà bene.
 Ecco a te.
-是的
 Grazie
 Sì, quali sono i treni per Pechino.
 Il 7 luglio, devo arrivare entro le 12.
@@ -29995,7 +29909,6 @@ Sì, naturalmente. Vuoi partecipare a un tour diurno o notturno?
 Voglio prendere il volo B.E.987 per il Regno Unito.
 10 del mattino. Quando devo effettuare il check-in?
 Ecco a te.
-是的
 Va bene.
 Quanto devo pagare?
 Ecco a te.
@@ -30169,7 +30082,6 @@ Grazie per essere venuto ad aiutare. Potresti abbassare un po' l'aria condiziona
 Buona idea.
 Grazie mille. Posso avere una bevanda fredda?
 Prendo il succo d'arancia.
-是的
 Uno o due andranno bene.
 Per favore.
 Sicuro. Ci sono diversi tipi di musica. Cosa le piace ascoltare?
@@ -30683,7 +30595,6 @@ Certo. Oggi farò altre foto.
 Mi dispiace, siamo al completo.
 Sì, ma ci è rimasta solo una stanza singola, va bene?
 Con una carta di credito.
-是的
 4434 1234 5678 9902 .
 No, 9902.
 Proprio così.
@@ -30755,7 +30666,6 @@ Quanto costa un biglietto di andata e ritorno per Londra?
 La seconda settimana di settembre.
 In questo caso, andrò dopo il 15. Quali sono le tariffe fuori stagione?
 Cosa c'è che non va?
-是的
 Dalian.
 veramente?
 Hmmmm, vorrei spostarmi in un'altra stanza.
@@ -30785,7 +30695,6 @@ Vorrei una camera doppia.
 Mi chiamo Monica Zellar.
 Sì, ho prenotato per tre giorni dal 3 al 6 aprile, mi chiamo Sarah.
 Vorrei prolungarlo per altre due notti.
-是的
 Ho prenotato una stanza per questa domenica. Il mio nome è Bobby
 Vorrei chiamare e cancellare adesso. Non posso andare in quella città dalla tua parte questa settimana.
 Quattro porte.
@@ -30961,7 +30870,6 @@ Domani vado a Pechino. Sto facendo i bagagli.
 Prendo dei vestiti per cambiarmi e pulire le cose.
 Sì. L'ho messo nella mia valigia.
 Lasciatemi pensare, signor Lee, giusto? Come vorresti pagare il tuo conto?
-是的
 Sì, posso avere un taxi prima, per favore?
 Huh. Ho appena fatto il check-out. Ma ho lasciato il mio libro nella stanza. Posso riaverlo?
 Sì, grazie mille.
@@ -31937,7 +31845,6 @@ Jack Remington, stanza 1408.
 Qual è il mio conto?
 Capisco. Ecco il conto. Il totale è?
 Cash.
-是的
 Sì. Abbiamo un appuntamento.
 Jack Bates.
 La prenotazione è per una camera doppia per tre notti, vero?
@@ -32191,7 +32098,6 @@ Prendere due compresse ogni sei ore.
 Riposa bene per qualche giorno.
 Ho mal di testa e tosse.
 Cosa devo fare, dottore?
-是的
 Mi fa male la testa.
 Da ieri sera.
 Sì, non riesco a dormire in questi giorni.
@@ -32251,7 +32157,6 @@ Grazie. Ho subito un'operazione per un'ulcera allo stomaco.
 Ho pensato che sarebbe stata una buona idea fare un check-up.
 Lo so. Penso che finché non c'è niente di sbagliato, perché hai bisogno di andare dal medico?
 Tutto bene.
-是的
 Ho provato un centinaio di volte, ma non riesco a rompere l'abitudine.
 Due compresse quattro volte al giorno.
 Si mettono le compresse sotto la lingua e non si ingoiano.
@@ -32881,7 +32786,6 @@ Non preoccupatevi, non sentirete nulla. Ti faccio un'iniezione per il dolore. Vu
 No, finirà presto. Infermiera, faccia delle radiografie dei molari del paziente. Possiamo iniziare dopo che sono stati presi. Spalanca la bocca, non essere così nervoso, aprila un po' di più ...... Ok, tienila così adesso, ecco fatto.
 Non ancora, ma sarà presto pronto. Ora preoccupati di riaprire la bocca ...... sta uscendo, guarda!
 Mi fa male lo stomaco, dottore.
-是的
 Ho avuto dolori a fasi alterne per tre anni. È peggiorato nelle ultime due settimane.
 Poi smette di far male dopo aver mangiato.
 Ogni tanto mi viene voglia di vomitare.
@@ -33443,7 +33347,6 @@ Ho visto il programma!
 Ehi, non è giusto. Faccio tanto lavoro quanto voi.
 Mi dispiace, sono occupato. Chiedi ad Alice, vuoi?
 Credo poco più di un anno. Cosa c'è che non va?
-是的
 Temo che non potrò partecipare alla conferenza stampa perché c'è una riunione di emergenza del consiglio alle 4:30.
 Sì, grazie. Inoltre, hai un piano di marketing pronto?
 Sì, sarei interessato a conoscere il meccanismo di organizzazione degli alloggi nella vostra azienda.
@@ -33854,7 +33757,6 @@ Vorrei saperne di più.
 Sembra molto allettante. Ok, che ne dici di firmare un contratto di un anno?
 Ho trovato solo alcuni nel mio campo di competenza.
 Purtroppo no. Se non vado da nessuna parte in quel campo, allora posso lavorare anche nel marketing.
-是的
 Davvero? Che cos'era?
 Pensi che mi assumeranno?
 Questa è una domanda difficile a cui rispondere, ma credo che un riesame delle politiche economiche passate della Cina possa portarci alla risposta giusta. Dalla fondazione della Nuova Cina, il nostro governo ha adottato molte politiche economiche per stimolare la crescita dell'economia cinese. Tuttavia, questo punto della politica ha favorito le nostre imprese, le ha protette dalla concorrenza internazionale e ha contribuito notevolmente al rapido sviluppo della nostra economia e delle imprese nazionali. Dopo l'adesione della Cina all'OMC, le imprese nazionali dovranno competere con le loro controparti straniere. Questa nuova situazione richiede un leggero cambiamento nella politica economica cinese. A lungo termine, questo cambiamento spingerà le imprese cinesi a diventare più competitive.
@@ -34108,8 +34010,6 @@ Sono qui per fare domanda per la posizione di Direttore dei Reclami.
 Il mio nome è Zhang Du.
 Mi sono laureato all'Istituto di Commercio Estero di Pechino. La mia specializzazione è il commercio internazionale.
 Ho lavorato in una compagnia di assicurazioni per quattro anni.
-是的
-是的
 Ma questo è lo stile popolare in questo momento.
 OK.
 Perché?
@@ -34631,7 +34531,6 @@ Voglio applicare le mie conoscenze ed esperienze al mio lavoro e migliorare ulte
 Come laureato, è probabilmente più importante raggiungere l'auto-sviluppo nel tuo futuro lavoro. Qualsiasi lavoro io faccia, farò del mio meglio.
 Sfrutterei al massimo l'opportunità e sarei sempre pronto per una sfida.
 È vero che lo stipendio è importante, ma sono più interessato a ciò che imparo da questo lavoro.
-是的
 Grazie per avermi chiamato. Arriverò in tempo.
 Sono felice di farlo.
 Molto bene. Ho fatto molto bene all'università. Ho ricevuto una borsa di studio ogni semestre.
@@ -34993,7 +34892,6 @@ Mi dispiace chiedere un aumento di stipendio così presto.
 Mi dispiace sentire questo. Perché si dimette?
 Bene, sentitevi liberi di tornare quando volete.
 È stato un piacere lavorare con te. Buona fortuna!
-是的
 Quindi, posso aspettarmi di sentirla la prossima settimana per organizzare un'intervista telefonica?
 Grazie mille, addio.
 Cos'è successo?
@@ -35291,7 +35189,6 @@ Bene, ora sto cercando un lavoro.
 Di che cosa hai bisogno?
 Wilson.
 Steven Michael.
-有的，Henrylee@yahoo.com .
 ventuno.
 California.
 separare.
@@ -35361,7 +35258,6 @@ Bene, ora sto cercando un lavoro.
 Di che cosa hai bisogno?
 Wilson.
 Steven Michael.
-有的，Henrylee@yahoo.com .
 ventuno.
 Sicuro. Non mi dispiace.
 Sì, nessun problema.
@@ -35437,7 +35333,6 @@ Nel 2004, ho ottenuto un lavoro nel reparto vendite di una società commerciale 
 Per favore, entrate.
 Tre mesi o giù di lì.
 L'hai fatto? Beh, in ogni caso, avrai un aumento quando l'economia inizierà a riprendersi.
-是的
 No, non decidere così in fretta. Hai fatto un buon lavoro qui, ma la società è in un periodo difficile e non posso dare un aumento a tutti.
 So quello che dici e vorrei poter fare qualcosa.
 Prima di tutto, per quanto ne so, la tua azienda sta crescendo ad un ritmo impressionante. In secondo luogo, vorrei impegnarmi in attività di commercio estero.
@@ -35546,7 +35441,6 @@ Sì. Sono Vanessa.
 Sì. State assumendo per questa posizione ora?
 Grazie mille.
 Sono Kevin.
-是的
 Wow! È fantastico. Certo che si può. Dov'è l'ufficio delle risorse umane?
 Grazie mille, arriverò in tempo.
 Davvero? Dove l'hai sentito?
@@ -35777,7 +35671,6 @@ Hai ragione. Dobbiamo avere una rete di stazioni di lavoro in ogni ufficio dell'
 Per favore, entrate.
 Tre mesi o giù di lì.
 L'hai fatto? Beh, in ogni caso, avrai un aumento quando l'economia inizierà a riprendersi.
-是的
 Non ah, non decidere così in fretta. Abbiamo tutti apprezzato il vostro lavoro qui, ma i tempi sono difficili in questa azienda e non posso dare un aumento a nessuno.
 So quello che dici e vorrei poter fare qualcosa.
 Bene. Grazie per il vostro aiuto. Sono sempre occupato con questo lavoro e mi sento un po' stanco.
@@ -36083,7 +35976,6 @@ Che mi dici di quella copia?
 Sai cosa, penso che il fax abbia finito il toner e posso cambiare la cartuccia del toner. Questo risolverebbe il problema.
 Sì, vorrei ordinare le cartucce. Abbiamo un accordo a lungo termine con la vostra azienda, quindi vogliamo ancora la stessa quantità dell'ultima volta.
 Dovrebbe essere a nome di Leslie Smith. Il numero di telefono è 184796A.
-是的
 No, per favore mandate la fattura a 124 Shields Road, Milton County, P.O. Box 98830.
 Dovrebbe fare un briefing su questo domani. So che ci sono alcune cose che devo condividere con voi. Ma, perbacco, non so ...... Oggi sono molto occupato e l'unica cosa che posso infilare è probabilmente una pausa pranzo ......
 It's okay ...... Ho pranzato per alcuni giorni di fila ......
@@ -36359,7 +36251,6 @@ Perché vorresti lavorare con noi?
 Quali sono i tuoi piani per il futuro? Che tipo di aspettative ha nei confronti dell'azienda?
 Bene. Sai qualcosa di questa azienda?
 Hai qualcosa da chiedermi?
-是的
 Tre volte all'anno al massimo. Cosa ne pensi di questo?
 Ho otto anni di esperienza lavorativa nel settore IT. Negli ultimi due anni ho lavorato come project manager per una società di networking. Sono anche certificato MI. Sto cercando un ambiente dove c'è uno spirito di squadra e dove possiamo sperimentare l'emozione di avviare un'azienda insieme.
 Ho lavorato su una varietà di progetti e lavori nell'industria high-tech. Volevo fare esperienza di lavoro in un'azienda di networking e anche imparare qualche esperienza di lavoro al piano terra di un business.
@@ -36446,7 +36337,6 @@ Bene, quando posso prendere una decisione? È meglio che mi dia una risposta chi
 Grazie. Arrivederci.
 Aspetta altri tre mesi o giù di lì,
 È giusto? Bene. Comunque, quando l'economia migliorerà, avrai un aumento.
-是的
 Sicuro. Cosa c'è?
 Va bene, cosa devo fare?
 Sono stato lì. Ci vado ogni martedì.
@@ -36534,7 +36424,6 @@ Sì, ma voglio una promozione.
 Voglio essere un direttore delle vendite.
 Sì, direttamente responsabile della consegna di tutti i rappresentanti di vendita del dipartimento, più riunioni, più scartoffie e anche altri compiti.
 Sì. Infatti, se guardate il mio CV, vedrete che ero un manager prima di iniziare questo lavoro.
-是的
 Oh, sì, signor Wang, ho letto il suo curriculum e sono impressionato che lei sia un product manager. Quando ho incontrato una persona come te, ti avrei chiamato questo pomeriggio per fare un'intervista telefonica.
 Vorrei parlare con il signor Myers.
 Ok. Puoi dirgli che ha chiamato Bob White?
@@ -36543,7 +36432,6 @@ Potete raggiungermi al 544-879-9087 fino alle 17 di oggi.
 Vorrei parlare con il signor Collins, per favore.
 Questo è Nathaniel Brown.
 Vorrei parlarle della mia sistemazione.
-好
 Sì, puoi chiederle di richiamarmi sul mio cellulare?
 È 0-7-7-8-7-3-6-7-6-8-8.
 No, non ci sono due sei dopo. Ci sono solo zeri, due sette, otto, sette, tre, sei, sette, sei, due otto.
@@ -36908,14 +36796,12 @@ Sembra facile se la metti così. In effetti, è difficile raggiungere la pace tr
 Beh, siamo qui perché pensiamo che non sia giusto! Il comportamento finanziariamente irresponsabile delle grandi imprese deve finire! Siamo qui per mostrare al governo che non ci piace il modo in cui spendono i soldi delle nostre tasse!
 Sarah, è uno scandalo che il governo degli Stati Uniti voglia donare 25 miliardi di dollari di denaro dei contribuenti all'industria automobilistica. Queste aziende sono state gestite male e ora sono quasi in bancarotta.
 Questo può essere vero, e personalmente non voglio vedere nessuno perdere il lavoro, ma come possono chiedere un salvataggio quando queste grandi aziende stanno facendo milioni di dollari? E poi, hanno il coraggio di volare a Washington su un jet privato! Questo costerà centinaia di migliaia di dollari! E poi vogliono soldi! Non è giusto!
-是的
 Jenny Madison.
 Nigeria.
 Aprile 15, 1969.
 Sono un pittore.
 7834623464 3367 .
 Beijing Jinshan Hotel.
-是的
 Quando è successo?
 Dimmi dove è successo e come è successo.
 Questo succede spesso ultimamente. Va bene, per favore, compilate questa denuncia di furto.
@@ -36998,7 +36884,6 @@ Penso che sia dritto, di media lunghezza o giù di lì.
 Oscuro, forse blu scuro, forse nero.Non ne sono sicuro.
 Stivali
 No, scarponi da trekking.Marroni.
-是的
 Mi chiamo James.
 American.
 Non lo conosco.
@@ -38104,7 +37989,6 @@ Capisco. È fantastico che tu possa aiutarmi. Questo modulo va bene?
 Sì, vorrei fare un deposito.
 Vorrei fare un deposito a tempo.
 RMB deposito.
-是的
 Sei mesi.
 Ecco a te.
 Ho qui alcuni documenti per una lettera di credito che la nostra azienda ha aperto 10 giorni fa. Credo che ci sia qualcosa che non va.
@@ -38777,7 +38661,6 @@ Ho una domanda.
 Ho firmato un assegno di 100 dollari, ma è stato rimborsato.
 Così è giusto.
 Va bene. Grazie!
-你不 Serio!
 Qual è il problema?
 Qual è la carica?
 Sei sicuro di non averla comprata?
@@ -39028,7 +38911,6 @@ Ci sono. Qual è il limite massimo di scoperto?
 C'è una penale per gli scoperti?
 Infatti lo è. Tutti i miei documenti sono in ordine, giusto?
 Grazie mille.
-是的
 Hmm. Ovviamente, non è necessario stipulare un'assicurazione contro tutti i rischi.
 Perché non sono merci fragili e difficilmente si danneggiano durante il viaggio. Un'assicurazione per la pace della mente sarebbe sufficiente.
 Sì. Tuttavia, UWSA assicura tutti i clienti contro la perdita parziale.
